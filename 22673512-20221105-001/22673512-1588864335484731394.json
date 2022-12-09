@@ -1,0 +1,1 @@
+{"body":[{"cmd":"GIFT_PANEL_PLAN","data":{"gift_list":[{"gift_id":32036,"config":null,"full_sc_effect":null,"float_sc_effect":null,"special_type":6,"show":false},{"gift_id":32037,"config":null,"full_sc_effect":null,"float_sc_effect":null,"special_type":6,"show":false}],"special_type_sort":null,"action":2}}],"packetLen":314,"headerLen":16,"ver":0,"op":5,"seq":0}
