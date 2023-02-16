@@ -1,0 +1,1 @@
+{"body":[[{"cmd":"ONLINE_RANK_COUNT","data":{"count":579}},{"cmd":"POPULAR_RANK_CHANGED","data":{"uid":1521415,"rank":56,"countdown":1792,"timestamp":1676399409,"cache_key":"rank_change:3564f4d13bd741998655d8e6daf52d7f"}}]],"packetLen":189,"headerLen":16,"ver":3,"op":5,"seq":0}
