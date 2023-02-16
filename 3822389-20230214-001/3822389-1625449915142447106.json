@@ -1,0 +1,1 @@
+{"body":[[{"cmd":"ONLINE_RANK_V2","data":{"list":[{"uid":197813668,"face":"https://i1.hdslb.com/bfs/face/3ccf59f9ea4411b97467ed84b91c0afb53cfd8e3.jpg","score":"1","uname":"mana世界第一可爱","rank":1,"guard_level":0}],"rank_type":"gold-rank"}},{"cmd":"ONLINE_RANK_COUNT","data":{"count":1}}]],"packetLen":235,"headerLen":16,"ver":3,"op":5,"seq":0}
