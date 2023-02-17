@@ -1,0 +1,1 @@
+{"body":[{"cmd":"COMMON_NOTICE_DANMAKU","data":{"biz_id":0,"content_segments":[{"font_color":"#99A5AE","font_color_dark":"#99A5AE","text":"恭喜主播 棋手战鹰 成为网游航海当前第2名","type":1}],"danmaku_style":{"background_color":null,"background_color_dark":null},"danmaku_uri":"","dmscore":144,"terminals":[5]}}],"packetLen":335,"headerLen":16,"ver":0,"op":5,"seq":0}
