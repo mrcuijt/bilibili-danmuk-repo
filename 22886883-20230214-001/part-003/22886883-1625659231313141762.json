@@ -1,0 +1,1 @@
+{"body":[[{"cmd":"GUARD_BUY","data":{"uid":20987437,"username":"荒星骑士DXC","guard_level":3,"num":1,"price":198000,"gift_id":10003,"gift_name":"舰长","start_time":1676422336,"end_time":1676422336}},{"cmd":"ONLINE_RANK_COUNT","data":{"count":4847}}]],"packetLen":217,"headerLen":16,"ver":3,"op":5,"seq":0}
